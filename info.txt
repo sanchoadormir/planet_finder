@@ -1,1 +1,137 @@
+granule_uid
+dataproduct_type
+target_name
+time_min (d)
+time_max (d)
+granule_gid
+obs_id
+target_class
+time_sampling_step_min (s)
+time_sampling_step_max (s)
+time_exp_min (s)
+time_exp_max (s)
+spectral_range_min (Hz)
+spectral_range_max (Hz)
+spectral_sampling_step_min (Hz)
+spectral_sampling_step_max (Hz)
+spectral_resolution_min
+spectral_resolution_max
+c1min (deg)
+c1max (deg)
+c2min (deg)
+c2max (deg)
+c3min (AU)
+c3max (AU)
+s_region
+c1_resol_min (deg)
+c1_resol_max (deg)
+c2_resol_min (deg)
+c2_resol_max (deg)
+c3_resol_min (AU)
+c3_resol_max (AU)
+spatial_frame_type
+incidence_min (deg)
+incidence_max (deg)
+emergence_min (deg)
+emergence_max (deg)
+phase_min (deg)
+phase_max (deg)
+instrument_host_name
+instrument_name
+measurement_type
+processing_level
+creation_date
+modification_date
+release_date
+service_title
+time_scale
+publisher
+bib_reference
+target_region
+species
+detection_type
+publication_status
+mass ('jupiterMass')
+mass_error_min ('jupiterMass')
+mass_error_max ('jupiterMass')
+radius ('jupiterRad')
+radius_error_min ('jupiterRad')
+radius_error_max ('jupiterRad')
+semi_major_axis (AU)
+semi_major_axis_error_min (AU)
+semi_major_axis_error_max (AU)
+period (d)
+period_error_min (d)
+period_error_max (d)
+eccentricity
+eccentricity_error_min
+eccentricity_error_max
+periastron (deg)
+periastron_error_min (deg)
+periastron_error_max (deg)
+tzero_tr (d)
+tzero_tr_error_min (d)
+tzero_tr_error_max (d)
+tzero_vr (d)
+tzero_vr_error_min (d)
+tzero_vr_error_max (d)
+t_peri (d)
+t_peri_error_min (d)
+t_peri_error_max (d)
+t_conj (d)
+t_conj_error_min (d)
+t_conj_error_max (d)
+inclination (deg)
+inclination_error_min (deg)
+inclination_error_max (deg)
+tzero_tr_sec (d)
+tzero_tr_sec_error_min (d)
+tzero_tr_sec_error_max (d)
+lambda_angle (deg)
+lambda_angle_error_min (deg)
+lambda_angle_error_max (deg)
+discovered
+updated
+remarks
+other_web
+angular_distance (arcsec)
+temp_calculated (K)
+temp_measured (K)
+hot_point_lon
+log_g
+albedo
+albedo_error_min
+albedo_error_max
+mass_detection_type
+radius_detection_type
+mass_sin_i
+mass_sin_i_error_min
+mass_sin_i_error_max
+impact_parameter
+impact_parameter_error_min
+impact_parameter_error_max
+k (m/s)
+k_error_min (m/s)
+k_error_max (m/s)
+alt_target_name
+star_name
+star_distance (pc)
+star_distance_error_min (pc)
+star_distance_error_max (pc)
+star_spec_type
+mag_v
+mag_i
+mag_j
+mag_h
+mag_k
+star_metallicity
+star_mass (solMass)
+star_radius (solRad)
+star_age (Gyr)
+star_teff (K)
+magnetic_field
+detected_disc
+ra (deg)
+dec (deg)
+external_link
 
