@@ -10,7 +10,8 @@ while True:
 	results = service.search(query)
 	results2 = service.search(query2)
 	plan = str(len(results2))
-	print("There are  " + plan + " planets fulfilling those conditions.")
+	plan = "There are  " + plan + " planets fulfilling those conditions."
+	print(plan)
 	print(results)
 	newresults = str(results)
 	print("--------------------")
@@ -19,7 +20,7 @@ while True:
 	f = open("planetfinder.txt", "a")
 	f.write(cond)
 	f.write("\n")
-	f.write(inout)
+	f.write(plan)
 	f.write("\n")
 	f.write(newresults)
 	f.write("\n")
