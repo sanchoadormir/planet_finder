@@ -17,7 +17,7 @@ while True:
 	print("\n")
 	
 	f = open("planetfinder.txt", "a")
-	f.write(inf)
+	f.write(cond)
 	f.write("\n")
 	f.write(inout)
 	f.write("\n")
